@@ -3,7 +3,7 @@ aiohttp_jinja2==1.5
 aiohttp_session==2.11.0
 aiojobs==1.1.0
 alembic==1.9.2
-cryptography==3.4.8
+cryptography==41.0.5
 iptools==0.7.0
 Jinja2==3.1.2
 mac_vendor_lookup==0.1.12
