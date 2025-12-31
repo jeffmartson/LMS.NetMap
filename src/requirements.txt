@@ -9,7 +9,7 @@ Jinja2==3.1.2
 mac_vendor_lookup==0.1.12
 nest-asyncio==1.5.6
 pandas==1.4.1
-scapy==2.4.5
+scapy==2.7.0rc1
 setuptools==59.6.0
 SQLAlchemy==1.4.32
 sqlalchemy_schemadisplay==1.3
